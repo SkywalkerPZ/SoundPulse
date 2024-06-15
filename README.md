@@ -29,7 +29,7 @@ Installation
 
 First, ensure you have the required dependencies:
 
-pip install pygame pillow
+pip install pygame
 
 How to Run
 Simply run the soundpulse.py file:
