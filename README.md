@@ -34,7 +34,7 @@ pip install pygame
 How to Run
 Simply run the soundpulse.py file:
 
-python music_player.py
+python soundpulse.py
 
 Author
 by SkywalkerPZ
